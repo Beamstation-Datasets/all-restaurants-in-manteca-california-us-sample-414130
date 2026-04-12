@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Manteca in West Coast. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Manteca, California, US",
+  "export_job_id": "1f91b2a0-59bf-4b01-8547-fb4165396512",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 414130,
+  "location_name": "Manteca",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-manteca-california-us-sample-414130",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/414130/beamstation_414130_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 16,
+  "sample_sha256": "0d91a3495d940f2ae39f0cc514d0f69d2953c551793077ee16fb60d6bf737007",
+  "sample_size_bytes": 73326,
+  "total_records": 160,
+  "updated_at": "2026-04-09T12:09:04.339749+00:00"
+}
