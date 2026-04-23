@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f5ac12d5-3e05-47cc-87a4-eb7249737c4e",
+  "export_job_id": "1bbb81a8-93a3-47ed-b0f4-9fb6516acab7",
   "id_short": 414130,
-  "published_at": "2026-04-19T19:31:59Z",
+  "published_at": "2026-04-23T19:38:21Z",
   "repo_name": "all-restaurants-in-manteca-california-us-sample-414130",
   "sample_asset_name": "beamstation_414130_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/414130/beamstation_414130_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "a0344126590606605502f4b37e13bc6b84e3f0c1689cb23706988d7c8917e303",
-  "sample_size_bytes": 64859,
-  "total_records": 159
+  "sample_records": 14,
+  "sample_sha256": "331c76f71bdde067b087e1af23bb4b45b515d88c45118a0849ae232fcd8ab443",
+  "sample_size_bytes": 64548,
+  "total_records": 140
 }
