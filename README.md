@@ -1,6 +1,6 @@
 # All Restaurants in Manteca, California, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `414130` |
 | Location | Manteca |
 | Category | Restaurants |
-| Full dataset size | 140 records |
-| Free sample size | 14 records (10.0%) |
-| Last export | 2026-04-23T11:31:36.434862+00:00 |
+| Full dataset size | 136 records |
+| Free sample size | 13 records (9.56%) |
+| Last export | 2026-04-30T11:38:18.842128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-manteca-california-us-sample-414130/releases/download/sample-latest/beamstation_414130_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
